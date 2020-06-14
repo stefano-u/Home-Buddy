@@ -1,6 +1,6 @@
-# mobileremote
+# Home Buddy
 
-A new Flutter application.
+Home Buddy encourages kids to use their senses by playing games based on what's going on around them. Show Me is a game that prompts kids to find a specific item in their home and take a picture of it. If the camera recognizes the correct object, they win a point. Alarm Alert keeps kids on their toes by keeping their ear out for alarm noises. If the app detects an alarm, Sloane the Sloth will start screaming.
 
 ## Getting Started
 
